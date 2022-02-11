@@ -5,7 +5,7 @@
   "main": "index.js",
   "scripts": {
     "test": "jest",
-    "dev":"npx ts-node-dev src/index.ts"
+    "dev":"npx ts-node-dev index.ts"
   },
   "keywords": [],
   "author": "",
